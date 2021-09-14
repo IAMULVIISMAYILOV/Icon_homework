@@ -1,0 +1,22 @@
+#icon{
+margin-left: 300px;
+}   
+
+#title{
+    margin-left: 300px;
+    font-family: 'Azeret Mono', monospace;
+    color: sandybrown;
+}
+
+#main{
+    box-sizing: border-box;
+}
+
+#title2{
+    margin-left: 190px;
+    font-family: 'Crimson Pro', serif;
+    text-align: justify;
+    width: 400px;
+    font-size: x-large;
+    color: rosybrown;
+}
